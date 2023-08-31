@@ -1,6 +1,7 @@
-<img width="1440" alt="Screenshot 2023-08-31 at 6 43 43 PM" src="https://github.com/mohamk29/ReactMeals/assets/49575465/b5139ee1-c93f-46f6-988c-67c0ad6cbab9"># ReactMeals
+# ReactMeals
 A meal ordering application which allows the user to add food items to their cart and shows the total cost. Created using React.
 Homepage:
+<img width="1440" alt="Screenshot 2023-08-31 at 6 43 43 PM" src="https://github.com/mohamk29/ReactMeals/assets/49575465/b5139ee1-c93f-46f6-988c-67c0ad6cbab9">
 <img width="1440" alt="Screenshot 2023-08-31 at 6 43 22 PM" src="https://github.com/mohamk29/ReactMeals/assets/49575465/6c14efcb-2baf-4dcd-810f-5ebe7109111f">
 Added items which updates our cart accordingly and shows order total:
 <img width="1440" alt="Screenshot 2023-08-31 at 6 43 33 PM" src="https://github.com/mohamk29/ReactMeals/assets/49575465/526b1445-279c-4015-95d2-2779168246bb">
