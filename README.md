@@ -1,5 +1,5 @@
 # ReactMeals
-A meal ordering application which allows the user to add food items to their cart and shows the total cost. Created using React.
+A meal ordering application which allows the user to add food items to their cart and shows the total cost. Created using React!
 
 Homepage:
 <img width="1440" alt="Screenshot 2023-08-31 at 6 43 22 PM" src="https://github.com/mohamk29/ReactMeals/assets/49575465/6c14efcb-2baf-4dcd-810f-5ebe7109111f">
